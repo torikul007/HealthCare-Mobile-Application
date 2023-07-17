@@ -18,3 +18,8 @@ Motivation
 • Removing the Hassle of set appointments with doctors physically.
 • Provide a user friendly user interface so that they can easily use it.
 • Health articles are available for the users.
+
+Developed by
+
+Md.Torikul Islam 
+Contact: torikulislamnishad@gmail.com
