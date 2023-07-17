@@ -1,4 +1,4 @@
-# healthcare
+HealthCare App
 This is a basic healthcare app that is developed by using XML and JAVA on Android Studio. For database, SQlite is used.
 
 Overview
